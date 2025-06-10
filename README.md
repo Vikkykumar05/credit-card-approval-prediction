@@ -311,8 +311,8 @@ Fraudulent       0.92      0.85      0.88
 
 For support, questions, or suggestions:
 - Create an issue on GitHub
-- Email: adityachuahan0369@gmail.com
-- Documentation: [Project Wiki](https://github.com/jyotiraditya-chauhan/credit-card-fraud-detection/)
+- Email: yadavvikky0556@gmail.com
+- Documentation: [Project Wiki](https://github.com/Vikkykumar05/credit-card-approval-prediction)
 
 ## 🙏 Acknowledgments
 
